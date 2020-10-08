@@ -1,0 +1,15 @@
+{
+  "name": "31.4_node-markov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "makeText.js",
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
